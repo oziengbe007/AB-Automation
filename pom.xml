@@ -4,8 +4,8 @@
   <artifactId>AB-AUTO</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <dependencies>
-  	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+  <dependencies> 
+	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 	<dependency>
 	    <groupId>org.testng</groupId>
 	    <artifactId>testng</artifactId>
@@ -18,8 +18,7 @@
 	    <groupId>org.seleniumhq.selenium</groupId>
 	    <artifactId>selenium-java</artifactId>
 	    <version>4.25.0</version>
-	</dependency>
-
-
+	</dependency>  
   </dependencies>
+  r
 </project>
